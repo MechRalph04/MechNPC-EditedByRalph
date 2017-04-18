@@ -6,8 +6,8 @@ api:
 - 3.0.0-ALPHA5
 - 3.0.0
 - 3.0.1
-main: onebone\npc\Main
-version: "1.4"
+main: mech\npc\Main
+version: "1.9"
 
 
 permissions:
